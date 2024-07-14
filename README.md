@@ -2,7 +2,12 @@
 In this course, the primary job responsibilities and core skills of professionals in the field of cybersecurity were covered. The (CISSP) security domains, various security frameworks and controls, and a foundational security model (CIA) triad were explored. some common tools used by security analysts to protect organizations and individuals.
 ![image](https://github.com/user-attachments/assets/2b5c6bba-c2ca-42cc-85ae-d056d34cf142)
 
-
+## Skill sets:
+- Communicating effectively
+- Collaborating with others
+- Identifying threats, risks, and vulnerabilities
+- Problem-solving
+    
 ## Course Modules
 ### Module 1: Welcome to the exciting world of cybersecurity
 Begining the journey into cybersecurity! Exploring the cybersecurity field, and learn about the job responsibilities of cybersecurity professionals.
