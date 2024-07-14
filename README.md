@@ -1,5 +1,5 @@
 # Foundations-of-Cybersecurity
-Exploring the cybersecurity field, and learn about the job responsibilities of cybersecurity professionals.
+In this course, the primary job responsibilities and core skills of professionals in the field of cybersecurity were covered. The (CISSP) security domains, various security frameworks and controls, and a foundational security model (CIA) triad were explored. some common tools used by security analysts to protect organizations and individuals.
 
 ## Course Modules
 ### Module 1: Welcome to the exciting world of cybersecurity
