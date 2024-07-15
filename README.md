@@ -20,3 +20,6 @@ Learning about security frameworks and controls, which are used to mitigate orga
 
 ### Module 4: Cybersecurity tools and programming languages
 Discovering common tools used by cybersecurity analysts to identify and mitigate risk. Learn about security information and event management (SIEM) tools, network protocol analyzers, and programming languages such as Python and SQL.
+
+## Course Certificate
+![image](https://github.com/user-attachments/assets/dff60a6d-a012-4451-8be6-b3db0963018e)
